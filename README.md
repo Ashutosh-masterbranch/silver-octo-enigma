@@ -54,7 +54,7 @@ LIFO (last-in, first-out) data type.
 ### Queue
 FIFO (first-in, first-out) data type.
 
-###Problem solving
+### Problem solving
 **First Approach:**
 Start with a frontier that contains the initial state.
 Repeat:
